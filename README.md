@@ -29,11 +29,15 @@ helping them to see their career path in a skill-based way.
 <p align="center">
   <img width="648" alt="roadmap" src="https://user-images.githubusercontent.com/79633483/222092008-8693b690-b590-4945-874b-d2f582cc7070.png">
 </p>
+
 ### Career Titles
 <img width="511" alt="Page1" src="https://user-images.githubusercontent.com/79633483/222092855-c999f3fb-7b04-4b29-ada6-95e7205918fd.png">
+
 ### Career Skills
 <img width="326" alt="page2" src="https://user-images.githubusercontent.com/79633483/222092867-61ae47be-3b78-4ecb-b97d-6cc87fabc561.png">
+
 ### Career Details
 <img width="367" alt="page3" src="https://user-images.githubusercontent.com/79633483/222092879-f5d50064-b616-4ab3-bf8d-2682a0607c6f.png">
+
 ### Job Recommendation
 <img width="454" alt="page4" src="https://user-images.githubusercontent.com/79633483/222092823-9f2b18f4-07f7-4c02-a386-4f7fb18f60cf.png">
