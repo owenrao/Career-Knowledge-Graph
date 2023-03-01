@@ -4,6 +4,7 @@ postings(demand), job descriptions, job category, and related skills. Skill enti
 category(hard, soft, language), and skill description. By connecting job titles and skills and enriching their attributes,
 we aim to give any employee a better understanding of the current job market, while more importantly helping them
 to see their career path in a skill-based way
+<img width="663" alt="ontology" src="https://user-images.githubusercontent.com/79633483/222091998-0bb4aa7e-d7a5-4d2e-ae35-4e00a8099df6.png">
 
 ## Motivation and Goal
 Employment is utterly important for graduating students like us. A great news is that, in the recent labor
@@ -20,3 +21,10 @@ the knowledge on career positions and skills. Moreover, linking those two entiti
 recommendation algorithms to advice suiting positions for students according to their current skillsets.
 We aim to give any employee a better understanding of the current job market, while more importantly
 helping them to see their career path in a skill-based way.
+<img width="626" alt="motivations" src="https://user-images.githubusercontent.com/79633483/222091585-bfe90e63-a51b-424c-819b-1adae338cd28.png">
+
+<img width="648" alt="roadmap" src="https://user-images.githubusercontent.com/79633483/222092008-8693b690-b590-4945-874b-d2f582cc7070.png">
+
+
+## App
+### Career Titles
